@@ -1,0 +1,613 @@
+Country,Target
+Algeria_gold,0
+Angola_gold,0
+Benin_gold,0
+Botswana_gold,0
+Burkina Faso_gold,0
+Burundi_gold,0
+Cameroon_gold,0
+Cabo Verde_gold,0
+Central African Republic_gold,0
+Chad_gold,0
+Comoros_gold,0
+Congo_gold,0
+Democratic Republic of the Congo_gold,0
+Côte d’Ivoire_gold,0
+Djibouti_gold,0
+Egypt_gold,0
+Eritrea_gold,0
+Eswatini_gold,0
+Ethiopia_gold,0
+Gabon_gold,0
+Gambia_gold,0
+Ghana_gold,0
+Guinea_gold,0
+Guinea-Bissau_gold,0
+Equatorial Guinea_gold,0
+Kenya_gold,0
+Lesotho_gold,0
+Liberia_gold,0
+Libya_gold,0
+Madagascar_gold,0
+Malawi_gold,0
+Mali_gold,0
+Morocco_gold,0
+Mauritius_gold,0
+Mauritania_gold,0
+Mozambique_gold,0
+Namibia_gold,0
+Niger_gold,0
+Nigeria_gold,0
+Uganda_gold,0
+Rwanda_gold,0
+Sao Tome and Principe_gold,0
+Senegal_gold,0
+Seychelles_gold,0
+Sierra Leone_gold,0
+Somalia_gold,0
+South Africa_gold,0
+South Sudan_gold,0
+Sudan_gold,0
+United Republic of Tanzania_gold,0
+Togo_gold,0
+Tunisia_gold,0
+Zambia_gold,0
+Zimbabwe_gold,0
+Antigua and Barbuda_gold,0
+Argentina_gold,0
+Aruba_gold,0
+Bahamas_gold,0
+Barbados_gold,0
+Belize_gold,0
+Bermuda_gold,0
+Bolivia_gold,0
+Brazil_gold,0
+Cayman Islands_gold,0
+Canada_gold,0
+Chile_gold,0
+Colombia_gold,0
+Costa Rica_gold,0
+Cuba_gold,0
+Dominican Republic_gold,0
+Dominica_gold,0
+El Salvador_gold,0
+Ecuador_gold,0
+Grenada_gold,0
+Guatemala_gold,0
+Guyana_gold,0
+Haiti_gold,0
+Honduras_gold,0
+Jamaica_gold,0
+Mexico_gold,0
+Nicaragua_gold,0
+Panama_gold,0
+Paraguay_gold,0
+Peru_gold,0
+Puerto Rico_gold,0
+Saint Kitts and Nevis_gold,0
+Saint Lucia_gold,0
+St. Vincent and the Grenadines_gold,0
+Suriname_gold,0
+Trinidad and Tobago_gold,0
+United States of America_gold,0
+Uruguay_gold,0
+Venezuela_gold,0
+"Virgin Islands, British_gold",0
+"Virgin Islands, US_gold",0
+Afghanistan_gold,0
+Bahrain_gold,0
+Bangladesh_gold,0
+Bhutan_gold,0
+Brunei Darussalam_gold,0
+Cambodia_gold,0
+People’s Republic of China_gold,0
+Republic of Korea_gold,0
+"Hong Kong, China_gold",0
+India_gold,0
+Indonesia_gold,0
+Islamic Republic of Iran_gold,0
+Iraq_gold,0
+Japan_gold,0
+Jordan_gold,0
+Kazakhstan_gold,0
+Kyrgyzstan_gold,0
+Kuwait_gold,0
+Lao People’s Democratic Republic_gold,0
+Lebanon_gold,0
+Malaysia_gold,0
+Maldives_gold,0
+Mongolia_gold,0
+Myanmar_gold,0
+Nepal_gold,0
+Oman_gold,0
+Pakistan_gold,0
+Palestine_gold,0
+Philippines_gold,0
+Qatar_gold,0
+Democratic People’s Republic of Korea_gold,0
+Saudi Arabia_gold,0
+Singapore_gold,0
+Sri Lanka_gold,0
+Syrian Arab Republic_gold,0
+Tajikistan_gold,0
+Chinese Taipei_gold,0
+Thailand_gold,0
+Democratic Rep. of Timor-Leste_gold,0
+Turkmenistan_gold,0
+United Arab Emirates_gold,0
+Uzbekistan_gold,0
+Vietnam_gold,0
+Yemen_gold,0
+Albania_gold,0
+Andorra_gold,0
+Armenia_gold,0
+Austria_gold,0
+Azerbaijan_gold,0
+Belgium_gold,0
+Bosnia and Herzegovina_gold,0
+Bulgaria_gold,0
+Cyprus_gold,0
+Croatia_gold,0
+Czechia_gold,0
+Denmark_gold,0
+Spain_gold,0
+Estonia_gold,0
+Finland_gold,0
+France_gold,0
+Georgia_gold,0
+Germany_gold,0
+Great Britain_gold,0
+Greece_gold,0
+Hungary_gold,0
+Ireland_gold,0
+Iceland_gold,0
+Israel_gold,0
+Italy_gold,0
+Kosovo_gold,0
+Latvia_gold,0
+Liechtenstein_gold,0
+Lithuania_gold,0
+Luxembourg_gold,0
+North Macedonia_gold,0
+Malta_gold,0
+Republic of Moldova_gold,0
+Monaco_gold,0
+Montenegro_gold,0
+Netherlands_gold,0
+Norway_gold,0
+Poland_gold,0
+Portugal_gold,0
+Romania_gold,0
+San Marino_gold,0
+Serbia_gold,0
+Slovakia_gold,0
+Slovenia_gold,0
+Sweden_gold,0
+Switzerland_gold,0
+Türkiye_gold,0
+Ukraine_gold,0
+American Samoa_gold,0
+Australia_gold,0
+Cook Islands_gold,0
+Fiji_gold,0
+Guam_gold,0
+Kiribati_gold,0
+Marshall Islands_gold,0
+Federated States of Micronesia_gold,0
+Nauru_gold,0
+New Zealand_gold,0
+Palau_gold,0
+Papua New Guinea_gold,0
+Solomon Islands_gold,0
+Samoa_gold,0
+Tonga_gold,0
+Tuvalu_gold,0
+Vanuatu_gold,0
+Algeria_silver,0
+Angola_silver,0
+Benin_silver,0
+Botswana_silver,0
+Burkina Faso_silver,0
+Burundi_silver,0
+Cameroon_silver,0
+Cabo Verde_silver,0
+Central African Republic_silver,0
+Chad_silver,0
+Comoros_silver,0
+Congo_silver,0
+Democratic Republic of the Congo_silver,0
+Côte d’Ivoire_silver,0
+Djibouti_silver,0
+Egypt_silver,0
+Eritrea_silver,0
+Eswatini_silver,0
+Ethiopia_silver,0
+Gabon_silver,0
+Gambia_silver,0
+Ghana_silver,0
+Guinea_silver,0
+Guinea-Bissau_silver,0
+Equatorial Guinea_silver,0
+Kenya_silver,0
+Lesotho_silver,0
+Liberia_silver,0
+Libya_silver,0
+Madagascar_silver,0
+Malawi_silver,0
+Mali_silver,0
+Morocco_silver,0
+Mauritius_silver,0
+Mauritania_silver,0
+Mozambique_silver,0
+Namibia_silver,0
+Niger_silver,0
+Nigeria_silver,0
+Uganda_silver,0
+Rwanda_silver,0
+Sao Tome and Principe_silver,0
+Senegal_silver,0
+Seychelles_silver,0
+Sierra Leone_silver,0
+Somalia_silver,0
+South Africa_silver,0
+South Sudan_silver,0
+Sudan_silver,0
+United Republic of Tanzania_silver,0
+Togo_silver,0
+Tunisia_silver,0
+Zambia_silver,0
+Zimbabwe_silver,0
+Antigua and Barbuda_silver,0
+Argentina_silver,0
+Aruba_silver,0
+Bahamas_silver,0
+Barbados_silver,0
+Belize_silver,0
+Bermuda_silver,0
+Bolivia_silver,0
+Brazil_silver,0
+Cayman Islands_silver,0
+Canada_silver,0
+Chile_silver,0
+Colombia_silver,0
+Costa Rica_silver,0
+Cuba_silver,0
+Dominican Republic_silver,0
+Dominica_silver,0
+El Salvador_silver,0
+Ecuador_silver,0
+Grenada_silver,0
+Guatemala_silver,0
+Guyana_silver,0
+Haiti_silver,0
+Honduras_silver,0
+Jamaica_silver,0
+Mexico_silver,0
+Nicaragua_silver,0
+Panama_silver,0
+Paraguay_silver,0
+Peru_silver,0
+Puerto Rico_silver,0
+Saint Kitts and Nevis_silver,0
+Saint Lucia_silver,0
+St. Vincent and the Grenadines_silver,0
+Suriname_silver,0
+Trinidad and Tobago_silver,0
+United States of America_silver,0
+Uruguay_silver,0
+Venezuela_silver,0
+"Virgin Islands, British_silver",0
+"Virgin Islands, US_silver",0
+Afghanistan_silver,0
+Bahrain_silver,0
+Bangladesh_silver,0
+Bhutan_silver,0
+Brunei Darussalam_silver,0
+Cambodia_silver,0
+People’s Republic of China_silver,0
+Republic of Korea_silver,0
+"Hong Kong, China_silver",0
+India_silver,0
+Indonesia_silver,0
+Islamic Republic of Iran_silver,0
+Iraq_silver,0
+Japan_silver,0
+Jordan_silver,0
+Kazakhstan_silver,0
+Kyrgyzstan_silver,0
+Kuwait_silver,0
+Lao People’s Democratic Republic_silver,0
+Lebanon_silver,0
+Malaysia_silver,0
+Maldives_silver,0
+Mongolia_silver,0
+Myanmar_silver,0
+Nepal_silver,0
+Oman_silver,0
+Pakistan_silver,0
+Palestine_silver,0
+Philippines_silver,0
+Qatar_silver,0
+Democratic People’s Republic of Korea_silver,0
+Saudi Arabia_silver,0
+Singapore_silver,0
+Sri Lanka_silver,0
+Syrian Arab Republic_silver,0
+Tajikistan_silver,0
+Chinese Taipei_silver,0
+Thailand_silver,0
+Democratic Rep. of Timor-Leste_silver,0
+Turkmenistan_silver,0
+United Arab Emirates_silver,0
+Uzbekistan_silver,0
+Vietnam_silver,0
+Yemen_silver,0
+Albania_silver,0
+Andorra_silver,0
+Armenia_silver,0
+Austria_silver,0
+Azerbaijan_silver,0
+Belgium_silver,0
+Bosnia and Herzegovina_silver,0
+Bulgaria_silver,0
+Cyprus_silver,0
+Croatia_silver,0
+Czechia_silver,0
+Denmark_silver,0
+Spain_silver,0
+Estonia_silver,0
+Finland_silver,0
+France_silver,0
+Georgia_silver,0
+Germany_silver,0
+Great Britain_silver,0
+Greece_silver,0
+Hungary_silver,0
+Ireland_silver,0
+Iceland_silver,0
+Israel_silver,0
+Italy_silver,0
+Kosovo_silver,0
+Latvia_silver,0
+Liechtenstein_silver,0
+Lithuania_silver,0
+Luxembourg_silver,0
+North Macedonia_silver,0
+Malta_silver,0
+Republic of Moldova_silver,0
+Monaco_silver,0
+Montenegro_silver,0
+Netherlands_silver,0
+Norway_silver,0
+Poland_silver,0
+Portugal_silver,0
+Romania_silver,0
+San Marino_silver,0
+Serbia_silver,0
+Slovakia_silver,0
+Slovenia_silver,0
+Sweden_silver,0
+Switzerland_silver,0
+Türkiye_silver,0
+Ukraine_silver,0
+American Samoa_silver,0
+Australia_silver,0
+Cook Islands_silver,0
+Fiji_silver,0
+Guam_silver,0
+Kiribati_silver,0
+Marshall Islands_silver,0
+Federated States of Micronesia_silver,0
+Nauru_silver,0
+New Zealand_silver,0
+Palau_silver,0
+Papua New Guinea_silver,0
+Solomon Islands_silver,0
+Samoa_silver,0
+Tonga_silver,0
+Tuvalu_silver,0
+Vanuatu_silver,0
+Algeria_bronze,0
+Angola_bronze,0
+Benin_bronze,0
+Botswana_bronze,0
+Burkina Faso_bronze,0
+Burundi_bronze,0
+Cameroon_bronze,0
+Cabo Verde_bronze,0
+Central African Republic_bronze,0
+Chad_bronze,0
+Comoros_bronze,0
+Congo_bronze,0
+Democratic Republic of the Congo_bronze,0
+Côte d’Ivoire_bronze,0
+Djibouti_bronze,0
+Egypt_bronze,0
+Eritrea_bronze,0
+Eswatini_bronze,0
+Ethiopia_bronze,0
+Gabon_bronze,0
+Gambia_bronze,0
+Ghana_bronze,0
+Guinea_bronze,0
+Guinea-Bissau_bronze,0
+Equatorial Guinea_bronze,0
+Kenya_bronze,0
+Lesotho_bronze,0
+Liberia_bronze,0
+Libya_bronze,0
+Madagascar_bronze,0
+Malawi_bronze,0
+Mali_bronze,0
+Morocco_bronze,0
+Mauritius_bronze,0
+Mauritania_bronze,0
+Mozambique_bronze,0
+Namibia_bronze,0
+Niger_bronze,0
+Nigeria_bronze,0
+Uganda_bronze,0
+Rwanda_bronze,0
+Sao Tome and Principe_bronze,0
+Senegal_bronze,0
+Seychelles_bronze,0
+Sierra Leone_bronze,0
+Somalia_bronze,0
+South Africa_bronze,0
+South Sudan_bronze,0
+Sudan_bronze,0
+United Republic of Tanzania_bronze,0
+Togo_bronze,0
+Tunisia_bronze,0
+Zambia_bronze,0
+Zimbabwe_bronze,0
+Antigua and Barbuda_bronze,0
+Argentina_bronze,0
+Aruba_bronze,0
+Bahamas_bronze,0
+Barbados_bronze,0
+Belize_bronze,0
+Bermuda_bronze,0
+Bolivia_bronze,0
+Brazil_bronze,0
+Cayman Islands_bronze,0
+Canada_bronze,0
+Chile_bronze,0
+Colombia_bronze,0
+Costa Rica_bronze,0
+Cuba_bronze,0
+Dominican Republic_bronze,0
+Dominica_bronze,0
+El Salvador_bronze,0
+Ecuador_bronze,0
+Grenada_bronze,0
+Guatemala_bronze,0
+Guyana_bronze,0
+Haiti_bronze,0
+Honduras_bronze,0
+Jamaica_bronze,0
+Mexico_bronze,0
+Nicaragua_bronze,0
+Panama_bronze,0
+Paraguay_bronze,0
+Peru_bronze,0
+Puerto Rico_bronze,0
+Saint Kitts and Nevis_bronze,0
+Saint Lucia_bronze,0
+St. Vincent and the Grenadines_bronze,0
+Suriname_bronze,0
+Trinidad and Tobago_bronze,0
+United States of America_bronze,0
+Uruguay_bronze,0
+Venezuela_bronze,0
+"Virgin Islands, British_bronze",0
+"Virgin Islands, US_bronze",0
+Afghanistan_bronze,0
+Bahrain_bronze,0
+Bangladesh_bronze,0
+Bhutan_bronze,0
+Brunei Darussalam_bronze,0
+Cambodia_bronze,0
+People’s Republic of China_bronze,0
+Republic of Korea_bronze,0
+"Hong Kong, China_bronze",0
+India_bronze,0
+Indonesia_bronze,0
+Islamic Republic of Iran_bronze,0
+Iraq_bronze,0
+Japan_bronze,0
+Jordan_bronze,0
+Kazakhstan_bronze,0
+Kyrgyzstan_bronze,0
+Kuwait_bronze,0
+Lao People’s Democratic Republic_bronze,0
+Lebanon_bronze,0
+Malaysia_bronze,0
+Maldives_bronze,0
+Mongolia_bronze,0
+Myanmar_bronze,0
+Nepal_bronze,0
+Oman_bronze,0
+Pakistan_bronze,0
+Palestine_bronze,0
+Philippines_bronze,0
+Qatar_bronze,0
+Democratic People’s Republic of Korea_bronze,0
+Saudi Arabia_bronze,0
+Singapore_bronze,0
+Sri Lanka_bronze,0
+Syrian Arab Republic_bronze,0
+Tajikistan_bronze,0
+Chinese Taipei_bronze,0
+Thailand_bronze,0
+Democratic Rep. of Timor-Leste_bronze,0
+Turkmenistan_bronze,0
+United Arab Emirates_bronze,0
+Uzbekistan_bronze,0
+Vietnam_bronze,0
+Yemen_bronze,0
+Albania_bronze,0
+Andorra_bronze,0
+Armenia_bronze,0
+Austria_bronze,0
+Azerbaijan_bronze,0
+Belgium_bronze,0
+Bosnia and Herzegovina_bronze,0
+Bulgaria_bronze,0
+Cyprus_bronze,0
+Croatia_bronze,0
+Czechia_bronze,0
+Denmark_bronze,0
+Spain_bronze,0
+Estonia_bronze,0
+Finland_bronze,0
+France_bronze,0
+Georgia_bronze,0
+Germany_bronze,0
+Great Britain_bronze,0
+Greece_bronze,0
+Hungary_bronze,0
+Ireland_bronze,0
+Iceland_bronze,0
+Israel_bronze,0
+Italy_bronze,0
+Kosovo_bronze,0
+Latvia_bronze,0
+Liechtenstein_bronze,0
+Lithuania_bronze,0
+Luxembourg_bronze,0
+North Macedonia_bronze,0
+Malta_bronze,0
+Republic of Moldova_bronze,0
+Monaco_bronze,0
+Montenegro_bronze,0
+Netherlands_bronze,0
+Norway_bronze,0
+Poland_bronze,0
+Portugal_bronze,0
+Romania_bronze,0
+San Marino_bronze,0
+Serbia_bronze,0
+Slovakia_bronze,0
+Slovenia_bronze,0
+Sweden_bronze,0
+Switzerland_bronze,0
+Türkiye_bronze,0
+Ukraine_bronze,0
+American Samoa_bronze,0
+Australia_bronze,0
+Cook Islands_bronze,0
+Fiji_bronze,0
+Guam_bronze,0
+Kiribati_bronze,0
+Marshall Islands_bronze,0
+Federated States of Micronesia_bronze,0
+Nauru_bronze,0
+New Zealand_bronze,0
+Palau_bronze,0
+Papua New Guinea_bronze,0
+Solomon Islands_bronze,0
+Samoa_bronze,0
+Tonga_bronze,0
+Tuvalu_bronze,0
+Vanuatu_bronze,0
