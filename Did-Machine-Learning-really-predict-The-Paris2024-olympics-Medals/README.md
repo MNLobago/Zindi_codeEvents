@@ -1,6 +1,6 @@
 # Olympic 2024 Medal Prediction Challenge
 
-![Data Page](/PNGs/Screenshot 2025-03-10 091844.png)
+![Data Page](./PNGs/Screenshot%202025-03-10%20091844.png)
 
 
 ## Overview
