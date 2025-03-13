@@ -2,11 +2,12 @@
 
 ![Data Page](./PNGs/Screenshot%202025-03-10%20091844.png)
 
-
 ## Overview
 This project aims to predict the number of medals (Gold, Silver, and Bronze) that each country will win in the 2024 Olympic Games. The predictions are based on historical Olympic data, demographic information, and economic indicators. The project leverages machine learning models to forecast medal counts, providing insights into the potential performance of countries in the upcoming Olympics.
 
 The goal was to make the model as dependent on the year as possible, so that by simply tweaking the year column, the model would be able to make predictions for the 2024 Olympic medals.
+
+**Note:** This is an early approach and can be improved upon. The current methodology provides a solid foundation, but there are opportunities for refinement, such as incorporating additional data sources,More Feature Engineering, experimenting with more advanced models, and fine-tuning hyperparameters.
 
 ## Project Structure
 The project is structured as follows:
@@ -71,7 +72,3 @@ To replicate or extend this project, follow these steps:
    ```bash
    git clone https://github.com/MNLobago/Zindi_codeEvents.git
    cd Did-Machine-Learning-really-predict-The-Paris2024-olympics-Medals
-   ```
-
-## Competition Link
-For more details, visit the competition page: [Olympic 2024 Medal Prediction Challenge](https://zindi.africa/competitions/olympic-2024-medal-prediction-challenge)
