@@ -31,7 +31,6 @@ The notebook includes:
 * Data preprocessing and augmentation
 * Dataset organization for training and validation
 * Model architecture and training pipeline
-* Learning rate finder and optimization
 * Inference on test images and prediction export
 
 ---
