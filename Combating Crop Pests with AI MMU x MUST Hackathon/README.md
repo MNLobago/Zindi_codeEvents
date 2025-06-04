@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains the baseline notebook for the **Combating Crop Pests with AI** hackathon hosted on [Zindi](https://zindi.africa/). The challenge focuses on early detection of fall armyworm infestations in maize crops using AI-powered image classification.
+This repository contains the baseline notebook and Second place solution for the **Combating Crop Pests with AI** hackathon hosted on [Zindi](https://zindi.africa/). The challenge focuses on early detection of fall armyworm infestations in maize crops using AI-powered image classification.
 
 ---
 
@@ -32,6 +32,16 @@ The notebook includes:
 * Dataset organization for training and validation
 * Model architecture and training pipeline
 * Inference on test images and prediction export
+
+---
+
+---
+
+## 2nd_placeSolution
+A folder contining second place solution:
+
+`2NDplace_Using _ACCmetric`; Notebook using Accuracy Metric 
+`AUC_2NDplace.html`; Illustration of second place solution using AUC Metric 
 
 ---
 
